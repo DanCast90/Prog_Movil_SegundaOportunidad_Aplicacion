@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFF"
+    android:gravity="center"
+    android:padding="2dp">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="@string/tittle"
+        android:textColor="#681A1A"
+        android:textSize="25dp"
+        />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="@string/selecionar"
+        android:textColor="#681A1A"
+        android:textSize="20dp"
+
+        />
+
+    <CheckBox
+        android:id="@+id/CB_Acelerometro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Acelerometro"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+
+    <CheckBox
+        android:id="@+id/CB_Gravedad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Gravedad"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/CB_Luminosidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Luminosidad"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/CB_Magnetico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Magnetico"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/CB_Pasos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Pasos"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/CB_Proximidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/cardo"
+        android:text="Proximidad"
+        android:textColor="#681A1A"
+        android:textSize="20dp">
+    </CheckBox>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn4"
+        android:onClick="onClic"
+        android:text="Comenzar Lectura \n de sensores"
+        android:padding="10dp"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

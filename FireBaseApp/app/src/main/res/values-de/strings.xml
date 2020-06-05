@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="btn_lectura">Daten von Sensoren Lessen</string>
+    <string name="btn_detener">das Lessen von Sensoren beenden</string>
+    <string name="str_filtro">In Filter schreiben</string>
+    <string name="tittle">Sensor-Lesegerät mit Firebase</string>
+    <string name="btn_actualizar">Aktualisierungsliste</string>
+    <string name="lista">Leseliste</string>
+     <string name="cln">Liste löschen</string>
+    <string name="abrir">Öffnen Sie das Diagramm</string>
+    <string name="selecionar">Wählen Sie die Sensoren aus</string>
+
+
+</resources>

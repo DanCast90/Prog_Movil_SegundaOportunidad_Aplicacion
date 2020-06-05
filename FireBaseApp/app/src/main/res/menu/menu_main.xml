@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/icon_add"
+        android:icon="@drawable/ic_add"
+        android:title="Edit done"
+        app:showAsAction="always"
+        ></item>
+
+    <item android:id="@+id/icon_stop"
+        android:icon="@drawable/ic_stop"
+        android:title="Edit done"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/icon_clean"
+        android:icon="@drawable/ic_clean2"
+        android:title="Edit done"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Edit done"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/icon_chart"
+        android:icon="@drawable/ic_chart"
+        android:title="Edit done"
+        app:showAsAction="always"
+        ></item>
+
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="btn_lectura">Lire les données des capteurs</string>
+    <string name="btn_detener">Arrêter la lecture des capteurs</string>
+    <string name="str_filtro">Écric pour filter</string>
+    <string name="tittle">Lecteur des capteurs avec Firebase</string>
+    <string name="btn_actualizar">Actualiser la liste</string>
+    <string name="lista">" Liste de lecture"</string>
+     <string name="cln">" Effacer la liste"</string>
+    <string name="abrir">" Ouvrir le graphique"</string>
+    <string name="selecionar">" Sélectionnez les capteurs"</string>
+
+
+</resources>

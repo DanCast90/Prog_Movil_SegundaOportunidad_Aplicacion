@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="btn_lectura">Read data from sensors</string>
+    <string name="btn_detener">Stop reading data</string>
+    <string name="str_filtro">Write to filter</string>
+    <string name="tittle">Sensor reader with Firebase</string>
+    <string name="btn_actualizar">Refresh List</string>
+    <string name="lista">Reading list</string>
+     <string name="cln">Clear List</string>
+    <string name="abrir">Open Chart</string>
+    <string name="selecionar">Select The sensors</string>
+
+
+</resources>
